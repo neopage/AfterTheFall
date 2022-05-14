@@ -7,7 +7,7 @@ title: 収穫作戦のステージ共通Tips
 ## 弾薬箱(ammo)
 緑弾薬箱は1回のみ回収、紫弾薬箱は時間経過で復活するので何度でも回収できる。紫弾薬箱が回復するまでの時間は、収穫作戦だとおよそ20秒、ホードモードだとおよそ50秒。
 
-![弾薬箱](https://user-images.githubusercontent.com/1223395/167609456-58ec9e9c-e996-46b6-b641-3f5c84e823c4.jpg)
+![弾薬箱](https://neopage.github.io/AfterTheFall/images/ammo.jpg)
 
 
 ## 弾薬の自動回復
@@ -24,7 +24,7 @@ title: 収穫作戦のステージ共通Tips
 ## 卵ボム
 正式名称不明。いろいろなところに生えていて、撃つと爆発して近くにいるスノーブリードにダメージを与える。スペシャルにはよろめき効果を与える。味方にダメージはないが、数秒間暗闇状態になる。弾の節約になり、数十秒で再度生えるので、敵を引きつけて積極的に撃つとよい。
 
-![卵ボム](https://user-images.githubusercontent.com/1223395/167609670-7e970b90-54c8-4f30-b2e0-126b7a980106.jpg)
+![卵ボム](https://neopage.github.io/AfterTheFall/images/egg.jpg)
 
 
 ![卵ボムのgif](https://user-images.githubusercontent.com/1223395/167609737-8824fd4d-8093-4197-9f88-0159674e2337.gif)
