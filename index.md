@@ -12,7 +12,7 @@ title: トップページ
 
 ## 目次
 
-* [初心者向けガイド](https://github.com/neopage/AfterTheFall/wiki/%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E3%82%AC%E3%82%A4%E3%83%89)
+* [初心者向けガイド](/pages/beginner-guide)
 * [チュートリアルにない操作説明](https://github.com/neopage/AfterTheFall/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AB%E3%81%AA%E3%81%84%E6%93%8D%E4%BD%9C%E8%AA%AC%E6%98%8E)
 * [ステージ共通のTips](https://github.com/neopage/AfterTheFall/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E5%85%B1%E9%80%9A%E3%81%AETips)
 * [ステージ攻略](https://github.com/neopage/AfterTheFall/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E6%94%BB%E7%95%A5)
