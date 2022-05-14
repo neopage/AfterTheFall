@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ソロ・ナイトメア攻略
+url: solo-nightmare
 ---
 # ソロ・ナイトメア攻略
 

@@ -12,13 +12,13 @@ title: トップページ
 
 ## 目次
 
-* [初心者向けガイド](/pages/beginner-guide)
-* [チュートリアルにない操作説明](/pages/detail-manual)
-* [収穫作戦のステージ共通Tips](/pages/harvest-run-tips)
-* [収穫作戦のステージ攻略](/pages/harvest-run-stage)
-* [敵ごとの攻略](/pages/enemy)
-* [ソロ・ナイトメア攻略](/pages/solo-nightmare)
-* [武器・アイテム](/pages/weapon-item)
-* [用語集](/pages/glossary)
-* [その他Tips](/pages/other-tips)
-* [関連リンク](/pages/link)
+* [初心者向けガイド](/AfterTheFall/pages/beginner-guide)
+* [チュートリアルにない操作説明](/AfterTheFall/pages/detail-manual)
+* [収穫作戦のステージ共通Tips](/AfterTheFall/pages/harvest-run-tips)
+* [収穫作戦のステージ攻略](/AfterTheFall/pages/harvest-run-stage)
+* [敵ごとの攻略](/AfterTheFall/pages/enemy)
+* [ソロ・ナイトメア攻略](/AfterTheFall/pages/solo-nightmare)
+* [武器・アイテム](/AfterTheFall/pages/weapon-item)
+* [用語集](/AfterTheFall/pages/glossary)
+* [その他Tips](/AfterTheFall/pages/other-tips)
+* [関連リンク](/AfterTheFall/pages/link)
