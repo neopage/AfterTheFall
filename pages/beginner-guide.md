@@ -15,8 +15,8 @@ title: 初心者向けガイド
 ## 重要な設定
 * 移動：テレポート移動は早い、酔いにくい、という利点があるが、操作が難しい。一方、スライディング移動は直感的でプレイしやすい。
 
-![移動の設定画面](https://user-images.githubusercontent.com/1223395/167607838-44e2dd1f-3a0d-40bc-9876-67ed7af85097.jpg)
+![移動の設定画面](https://neopage.github.io/AfterTheFall/images/teleport.jpg)
 
 * リロード：最初は操作しやすいクイックリロードがオススメ。マニュアルリロード(上級リロード)は、クイックリロードに比べて+35%のダメージが加算される。
 
-![リロードの設定画面](https://user-images.githubusercontent.com/1223395/167607957-3368a657-9eef-4202-aaa6-e08627b4700b.jpg)
+![リロードの設定画面](https://neopage.github.io/AfterTheFall/images/quick.jpg)
