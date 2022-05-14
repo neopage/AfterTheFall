@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 関連リンク
-url: link
 ---
 # 関連リンク
 

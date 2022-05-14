@@ -1,7 +1,6 @@
 ---
 layout: default
 title: その他Tips
-url: other-tips
 ---
 #その他Tips
 

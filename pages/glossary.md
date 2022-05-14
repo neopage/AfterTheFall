@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 用語
-url: glossary
 ---
 # 用語
 

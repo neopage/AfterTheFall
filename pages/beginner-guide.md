@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 初心者向けガイド
-url: beginner-guide
 ---
 # 初心者向けガイド
 
