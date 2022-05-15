@@ -1,11 +1,10 @@
 https://neopage.github.io/AfterTheFall
 https://neopage.github.io/AfterTheFall/pages/beginner-guide
-https://neopage.github.io/AfterTheFall/pages/detail-manual
-https://neopage.github.io/AfterTheFall/pages/harvest-run-tips
-https://neopage.github.io/AfterTheFall/pages/harvest-run-stage
+https://neopage.github.io/AfterTheFall/pages/manual
+https://neopage.github.io/AfterTheFall/pages/harvest-run
 https://neopage.github.io/AfterTheFall/pages/enemy
 https://neopage.github.io/AfterTheFall/pages/solo-nightmare
 https://neopage.github.io/AfterTheFall/pages/weapon-item
 https://neopage.github.io/AfterTheFall/pages/glossary
-https://neopage.github.io/AfterTheFall/pages/other-tips
+https://neopage.github.io/AfterTheFall/pages/trivia
 https://neopage.github.io/AfterTheFall/pages/link
