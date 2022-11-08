@@ -6,7 +6,7 @@ title: パッチ情報
 
 ## パッチ 1.7 (2022-09-15)
 
-[出典：Patch 1.7 – Reclamation Update is here! | afterthefall-vr.com](https://www.afterthefall-vr.com/patch-1-7-reclamation-update-is-here/)
+[出典：Patch 1.7 – Reclamation Update is here! by www.afterthefall-vr.com](https://www.afterthefall-vr.com/patch-1-7-reclamation-update-is-here/)
 
 ### マップ追加
 - 収穫作戦にダウンタウン追加。中継塔クリア後に挑戦可能
