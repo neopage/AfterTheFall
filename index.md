@@ -7,7 +7,7 @@ title: トップページ
 
 ## はじめに
 * アフター・ザ・フォール(ATF)は、最初のチュートリアル以外にほぼ説明がないので情報をまとめました。想定読者はATF購入済みで、チュートリアルを終えた方です。
-* 本サイトは私のVR環境であるQuest2、ATF Patch version 1.5.37145 (2022/4/28) 時点の情報です。
+* 本サイトは私のVR環境であるQuest2、AtF Patch version 1.7 (2022/9/15) 時点の情報です。
 * 購入を検討している方は、次の動画が参考になると思います。
 
 * [『After the Fall ‐ Frontrunner Edition』実況プレイ＆ゲーム紹介【MC：前田佳織里】電撃ゲームライブより](https://youtu.be/QSSbyUeIk9k)
