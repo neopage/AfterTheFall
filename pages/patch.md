@@ -4,6 +4,16 @@ title: パッチ情報
 ---
 # パッチ情報
 
+- [2022-10-04　Hotfix](./patch.md#2022-10-04hotfix)
+- [2022-09-15　パッチ 1.7](./patch.md#2022-09-15%E3%83%91%E3%83%83%E3%83%81-17)
+
+
+## 2022-10-04　Hotfix
+
+- テレポート移動のクールダウンを削除
+- 武器庫から開始した際に弾薬が無限になる現象を修正
+
+
 ## 2022-09-15　パッチ 1.7 
 
 [出典：Patch 1.7 – Reclamation Update is here! by www.afterthefall-vr.com](https://www.afterthefall-vr.com/patch-1-7-reclamation-update-is-here/)
