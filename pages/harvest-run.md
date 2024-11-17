@@ -60,6 +60,8 @@ title: 収穫作戦のステージ攻略
 
 ## 大通り
 
+* [大通り完全攻略 │ 秩父つむぎ](https://youtu.be/FmEF4oA9fIk)
+
 ## ダウンタウン
 
 * [ダウンタウン完全攻略 │ 秩父つむぎ](https://youtu.be/Ba7yppt9YKw)
