@@ -48,7 +48,7 @@ title: 収穫作戦のステージ攻略
 
 ## 隔離センター
 
-* [隔離センター完全攻略 │ 秩父つむぎ]([https://www.youtube.com/embed/2tfgFYRB5K8?si=VnNBU5B6ZkC7U9oO)
+* [隔離センター完全攻略 │ 秩父つむぎ](https://youtu.be/t9u6DhDRStE?si=1OQ90IOF2qXt7uAW)
 
 ## ユニオンタワー
 
@@ -70,6 +70,6 @@ title: 収穫作戦のステージ攻略
 
 * [地下鉄完全攻略 │ 秩父つむぎ](https://youtu.be/W2l-x-A233k)
 
-
 ## 病院
 
+* [病院完全攻略 │ 秩父つむぎ](https://youtu.be/puIG3I3nku4?si=p_NEvPkvbFzk6Tak)
